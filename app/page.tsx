@@ -50,7 +50,7 @@ export default function Home() {
       </div>
 
       <p className="text-lg text-gray-400 max-w-2xl">
-        I'm a high school student and I love making things that make life easier. Feel free to reach out at any time!
+        I'm a high school student and I love making things that make life easier.
       </p>
     </main>
   );
