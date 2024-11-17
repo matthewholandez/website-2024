@@ -11,7 +11,7 @@ export default function Home() {
       <div className="rounded-full overflow-hidden w-48 h-48 border-4 border-gray-800 mb-6">
         <Image
           src="/profile.jpg"
-          alt="Your Name"
+          alt="Matthew Holandez"
           width={192}
           height={192}
           className="object-cover"
@@ -21,7 +21,7 @@ export default function Home() {
       {/* Social links */}
       <div className="flex space-x-6 mb-6">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/matthewholandez"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white text-2xl transition"
@@ -31,7 +31,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://linkedin.com/in/matthewholandez"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white text-2xl transition"
