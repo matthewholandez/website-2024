@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        mono: ['DM Mono', 'monospace']
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
